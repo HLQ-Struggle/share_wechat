@@ -28,14 +28,35 @@ const val appInfoJson =
 免责声明
 =======
 
-为了避免收费的小哥哥干我，或者出现其它不好的情况，这里特意注明下：
+***为了避免收费的小哥哥干我，或者出现其它不好的情况，这里特意注明下：***
 
-本文如同标题一样，只属于个人笔记，仅限技术分享～ 如出现其他情况，一概与本人无关～
-本文如同标题一样，只属于个人笔记，仅限技术分享～ 如出现其他情况，一概与本人无关～
-本文如同标题一样，只属于个人笔记，仅限技术分享～ 如出现其他情况，一概与本人无关～
+***本文如同标题一样，只属于个人笔记，仅限技术分享～ 如出现其他情况，一概与本人无关～***
+
+***本文如同标题一样，只属于个人笔记，仅限技术分享～ 如出现其他情况，一概与本人无关～***
+
+***本文如同标题一样，只属于个人笔记，仅限技术分享～ 如出现其他情况，一概与本人无关～***
 
 作者：静心Study
+
 链接：https://juejin.im/post/5ef5c2abf265da22ad19d975
+
 来源：掘金
+
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
+License
+=======
+
+    Copyright 2020 HLQ_Struggle
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
